@@ -27,6 +27,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=prajwalbhoite09.prajwalbhoite09&"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
 
 ###
@@ -35,7 +41,7 @@
 
 ###
 
-<p align="left">I am From Pune, India. I am a well-focused full-stack developer👨‍💻.<br> I am passionate about building fully functional web, applications. I am skilled in C, C++, Python, Java HTML, CSS, JavaScript,.  <br>I am looking for opportunities as a Full Stack developer to help me learn and grow as a web developer<br><br>* 🌱 I’m currently learning Full Stack Development Course<br><br>* 👨‍💻 All of my projects are available at https://github.com/prajwalbhoite09<br><br>* 📫 How to reach me prajwalbhoite2019.etc@mmcoe.edu.in<br><br>* 📄 My Resume https://drive.google.com/file/d/19UnCVaO9Cw5PzbnQLK-qq3-ipHB2OY8Y/view?usp=drivesdk<br><br>* ⚡ Fun fact I love to cook</p>
+<p align="left">I am From Pune, India. I am a well-focused full-stack developer👨‍💻.<br> I am passionate about building fully functional web, applications. I am skilled in C, C++, Python, Java HTML, CSS, JavaScript,.  <br>I am looking for opportunities as a Full Stack developer to help me learn and grow as a web developer<br><br>* 🌱 I’m currently learning Full Stack Development Course<br><br>* 👨‍💻 All of my projects are available at https://github.com/prajwalbhoite09<br><br>* 📫 How to reach me @prajwalbhoite2019.etc@mmcoe.edu.in<br><br>* 📄 My Resume https://drive.google.com/file/d/19UnCVaO9Cw5PzbnQLK-qq3-ipHB2OY8Y/view?usp=drivesdk<br><br>* ⚡ Fun fact I love to cook</p>
 
 ###
 
@@ -77,6 +83,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
 ###
@@ -86,27 +102,29 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalbhoite09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalbhoite09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://streak-stats.demolab.com?user=prajwalbhoite09&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/prajwalbhoite09/prajwalbhoite09/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/prajwalbhoite09/count.svg?"  />
 </div>
 
 ###
